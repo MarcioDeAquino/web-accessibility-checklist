@@ -8,7 +8,7 @@ This checklist was made following [WCAG 2.0 Checklist](https://www.wuhcag.com/wc
 - [x] Write text transcripts to all audion-only media or video-only media
 - If the content is itself an alternative (you don’t have to provide a transcript of the audio track you provided to explain the silent video you used)
 
-- [ ] Provide captions for videos with audio
+- [ ] \(optional) Provide captions for videos with audio
 - [ ] Provide a full text transcript of the video
 - [ ] Provide a version of the video with audio description
 - If the video is itself an alternative.
