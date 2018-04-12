@@ -9,7 +9,7 @@ This checklist was made following [WCAG 2.0 Checklist](https://www.wuhcag.com/wc
 - If the content is itself an alternative (you don’t have to provide a transcript of the audio track you provided to explain the silent video you used)
 
 - [ ] \(optional) Provide captions for videos with audio
-- [ ] Provide a full text transcript of the video
+- [ ] \(Optional) Provide a full text transcript of the video
 - [ ] Provide a version of the video with audio description
 - If the video is itself an alternative.
 - You don’t need an audio description if all of the information in the video is provided in the regular soundtrack
