@@ -2,10 +2,10 @@
 This checklist was made following [WCAG 2.0 Checklist](https://www.wuhcag.com/wcag-checklist/)
 
 ## Level A (Beginner)
-- [ ] Add *alt* property to all images, audio, video or controls (such as ‘Search’ or ‘Submit’)
+- [] Add *alt* property to all images, audio, video or controls (such as ‘Search’ or ‘Submit’)
 - There are a few types of image that don’t need alt text: spacers, icons, purely decorative, tests and CAPTCHA images.
 
-- [ ] Write text transcripts to all audion-only media or video-only media
+- [x] Write text transcripts to all audion-only media or video-only media
 - If the content is itself an alternative (you don’t have to provide a transcript of the audio track you provided to explain the silent video you used)
 
 - [ ] Provide captions for videos with audio
